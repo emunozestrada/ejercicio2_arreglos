@@ -1,0 +1,47 @@
+#popupContainer {
+  width: 35rem;
+  height: 8rem;
+  font-size: 10px;
+  border: 1px solid #2475ee;
+  border-radius: 5px;
+  padding: 30px;  
+  position: fixed;
+  top: 2rem;
+  display: none;
+}
+#sendString,
+#closePopup {
+  border-radius: 10px;
+  outline: none;
+  border: none;
+}
+
+#sendString {
+  background-color: #2475ee;
+}
+
+#closePopup {
+  background-color: #696a6b;
+
+}
+
+
+#sendString,
+#closePopup {
+  width: 60px;
+  height: 30px;
+  margin: 10px 0px 0px 0px;
+  padding: 8px;
+  border-radius: 5%;
+  
+  color: white;
+}
+#string {
+  width: 100%;
+  padding: 8px; 
+}
+
+input {
+  border: 1px solid #2d2d2e;
+}
+
